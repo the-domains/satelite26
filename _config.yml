@@ -1,0 +1,14 @@
+layout_spectrum: 0.8325977465137839
+typography_spectrum: 0.8912849584594369
+color:
+  brandStrength: 0.027796630514785647
+  lightness: 0.23138773697428405
+  saturation: 0.8661709253210574
+  rhythmicContrast: 0.021508871344849467
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Satelite26
